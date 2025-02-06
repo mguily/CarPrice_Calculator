@@ -112,19 +112,19 @@ El sistema de predicción ha mostrado un resultado cercano, pero no exacto, por 
 
 ## 📂 Estructura del Proyecto
 
-📜 **CarPrice_NB.ipynb** → Entrena el modelo de regresión lineal y lo guarda en un archivo. 
-📜 **Predict.ipynb** → Carga el modelo guardado y realiza predicciones. 
-📁 **car_price_dataset.csv** → Conjunto de datos con información de los coches. 
-📁 **car_price_model.pkl** → Modelo de regresión lineal entrenado. 
-📁 **label_encoders.pkl** → Codificadores de variables categóricas para la predicción. 
+📜 **CarPrice_NB.ipynb** → Entrena el modelo de regresión lineal y lo guarda en un archivo.  
+📜 **Predict.ipynb** → Carga el modelo guardado y realiza predicciones.  
+📁 **car_price_dataset.csv** → Conjunto de datos con información de los coches.  
+📁 **car_price_model.pkl** → Modelo de regresión lineal entrenado.  
+📁 **label_encoders.pkl** → Codificadores de variables categóricas para la predicción.  
 
 ---
 
 ## 🚀 Próximos Pasos
 
-✅ Mejorar el modelo con técnicas como **Random Forest (Árboles de decisión en paralelo)** o **Gradient Boosting (Entrenar secuencialmente los árboles)**. 
-✅ Aplicar **normalización y escalado** en los datos para optimizar el rendimiento. 
-✅ Probar otras métricas de evaluación y **ajustar hiperparámetros (Parámetros del modelo configurados antes del entrenamiento)**. 
+✅ Mejorar el modelo con técnicas como **Random Forest (Árboles de decisión en paralelo)** o **Gradient Boosting (Entrenar secuencialmente los árboles)**.  
+✅ Aplicar **normalización y escalado** en los datos para optimizar el rendimiento.  
+✅ Probar otras métricas de evaluación y **ajustar hiperparámetros (Parámetros del modelo configurados antes del entrenamiento)**.  
 
 ---
 
