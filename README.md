@@ -90,15 +90,15 @@ Ejemplo de entrada en **Predict.ipynb**:
 
 ```python
 nuevo_coche = {
-    'Brand': 'BMW',
-    'Model': 'X5',
-    'Year': 2021,
-    'Fuel_Type': 'Diesel',
+    'Brand': 'Kia',  # Sustituye con valores reales
+    'Model': 'Sportage',
+    'Year': 2014, 
+    'Fuel_Type': 'Hybrid',
     'Transmission': 'Manual',
-    'Mileage': 150000,  # en millas
-    'Engine_Size': 3.0,
-    'Doors': 4,
-    'Owner_Count': 2
+    'Mileage': 98700,
+    'Engine_Size': 2.6,
+    'Doors': 3,
+    'Owner_Count': 5
 }
 ```
 
@@ -106,7 +106,7 @@ Este coche debería valer (Mirando el csv) -> Kia,Sportage,2014,2.6,Hybrid,Manua
 
 El sistema de predicción ha mostrado un resultado cercano, pero no exacto, por eso hay margen de mejora. ⬇️
 
-![image](https://github.com/user-attachments/assets/1599e3be-f6a5-49b2-aff2-6d7f8f1c7c41)
+![image](https://github.com/user-attachments/assets/e1de418c-ac4a-437f-b348-f2ff117f2baf)
 
 ---
 
