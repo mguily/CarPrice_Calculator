@@ -102,21 +102,24 @@ nuevo_coche = {
 }
 ```
 
-📂 Estructura del Proyecto
+---
 
-📂 Estructura del Proyecto
-📜 CarPrice_NB.ipynb → Entrena el modelo de regresión lineal y lo guarda en un archivo.
-📜 Predict.ipynb → Carga el modelo guardado y realiza predicciones.
-📁 car_price_dataset.csv → Conjunto de datos con información de los coches.
-📁 car_price_model.pkl → Modelo de regresión lineal entrenado.
-📁 label_encoders.pkl → Codificadores de variables categóricas para la predicción.
+## 📂 Estructura del Proyecto
 
-🚀 Próximos Pasos
+📜 **CarPrice_NB.ipynb** → Entrena el modelo de regresión lineal y lo guarda en un archivo.  
+📜 **Predict.ipynb** → Carga el modelo guardado y realiza predicciones.  
+📁 **car_price_dataset.csv** → Conjunto de datos con información de los coches.  
+📁 **car_price_model.pkl** → Modelo de regresión lineal entrenado.  
+📁 **label_encoders.pkl** → Codificadores de variables categóricas para la predicción.  
 
-Mejorar el modelo con técnicas como Random Forest o Gradient Boosting.
+---
 
-Aplicar normalización y escalado en los datos para optimizar el rendimiento.
+## 🚀 Próximos Pasos
 
-Probar otras métricas de evaluación y ajustar hiperparámetros.
+✅ Mejorar el modelo con técnicas como **Random Forest** o **Gradient Boosting**.  
+✅ Aplicar **normalización y escalado** en los datos para optimizar el rendimiento.  
+✅ Probar otras métricas de evaluación y **ajustar hiperparámetros**.  
 
-¡Gracias por revisar este proyecto! 😊
+---
+
+🎉 **¡Gracias por revisar este proyecto!** 😊
