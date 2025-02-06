@@ -8,9 +8,9 @@ Este proyecto tiene como objetivo predecir el precio de coches en función de di
 
 Se ha entrenado un modelo de **Regresión Lineal** para predecir los precios, obteniendo los siguientes resultados:  
 
+- **Coeficiente de Determinación (R² Score):** 0.91
 - **Error Absoluto Medio (MAE):** 793.48  
 - **Error Cuadrático Medio (MSE):** 818,588.25  
-- **Coeficiente de Determinación (R² Score):** 0.91  
 
 📌 **Conclusión:** El modelo tiene un buen rendimiento, ya que explica aproximadamente el **91%** de la variabilidad del precio de los coches. Sin embargo, hay margen de mejora con modelos más avanzados como **Random Forest** o **Gradient Boosting**.  
 
@@ -90,17 +90,23 @@ Ejemplo de entrada en **Predict.ipynb**:
 
 ```python
 nuevo_coche = {
-    'Brand': 'BMW',
-    'Model': 'X5',
-    'Year': 2021,
-    'Fuel_Type': 'Diesel',
+    'Brand': 'Kia',  # Sustituye con valores reales
+    'Model': 'Sportage',
+    'Year': 2014, 
+    'Engine_Size': 2.6,
+    'Fuel_Type': 'Hybrid',
     'Transmission': 'Manual',
-    'Mileage': 150000,  # en millas
-    'Engine_Size': 3.0,
-    'Doors': 4,
-    'Owner_Count': 2
+    'Mileage': 98700,
+    'Doors': 3,
+    'Owner_Count': 4
 }
 ```
+
+💸 Este coche debería valer (Mirando el csv: Kia,Sportage,2014,2.6,Hybrid,Manual,98700,3,4) -> **9926$**
+
+El sistema de predicción ha mostrado un resultado cercano, pero no exacto, por eso hay margen de mejora. ⬇️
+
+![image](https://github.com/user-attachments/assets/e1de418c-ac4a-437f-b348-f2ff117f2baf)
 
 ---
 
