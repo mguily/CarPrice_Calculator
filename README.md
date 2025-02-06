@@ -102,6 +102,12 @@ nuevo_coche = {
 }
 ```
 
+Este coche debería valer (Mirando el csv) -> Kia,Sportage,2014,2.6,Hybrid,Manual,98700,3,4,**9926**
+
+El sistema de predicción ha mostrado un resultado cercano, pero no exacto, por eso hay margen de mejora. ⬇️
+
+![image](https://github.com/user-attachments/assets/1599e3be-f6a5-49b2-aff2-6d7f8f1c7c41)
+
 ---
 
 ## 📂 Estructura del Proyecto
