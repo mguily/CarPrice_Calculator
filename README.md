@@ -8,9 +8,9 @@ Este proyecto tiene como objetivo predecir el precio de coches en función de di
 
 Se ha entrenado un modelo de **Regresión Lineal** para predecir los precios, obteniendo los siguientes resultados:  
 
+- **Coeficiente de Determinación (R² Score):** 0.91
 - **Error Absoluto Medio (MAE):** 793.48  
 - **Error Cuadrático Medio (MSE):** 818,588.25  
-- **Coeficiente de Determinación (R² Score):** 0.91  
 
 📌 **Conclusión:** El modelo tiene un buen rendimiento, ya que explica aproximadamente el **91%** de la variabilidad del precio de los coches. Sin embargo, hay margen de mejora con modelos más avanzados como **Random Forest** o **Gradient Boosting**.  
 
