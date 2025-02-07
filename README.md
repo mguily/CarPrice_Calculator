@@ -26,11 +26,13 @@ El gráfico siguiente representa la relación entre las predicciones del modelo 
 
 ![📊 Predicciones vs Valores Reales](https://github.com/user-attachments/assets/7f2e2b2c-ee3c-4383-8fbd-88544272c153)  
 
-📌 **Conclusión:** El modelo no tiene un mal rendimiento, ya que explica aproximadamente el **91%** de la variabilidad del precio de los coches. Sin embargo, analizandio los gráficos:
-Distribución de Errores: No parece ser completamente normal, lo que sugiere que el modelo podría no estar capturando bien ciertos patrones en los datos.
-La línea roja en 0 sugiere que el modelo tiene un sesgo bajo, pero hay errores dispersos en ambos lados.
-Predicciones vs Valores Reales: La mayoría de los puntos están cercanos con la línea roja (valor ideal), lo que indica que el modelo predice bien en general.
-Sin embargo, hay cierta dispersión en valores más altos, lo que podría significar que el modelo tiene más dificultad para predecir valores extremos.
+📌 **Conclusión:** El modelo no tiene un mal rendimiento, ya que explica aproximadamente el **91%** de la variabilidad del precio de los coches. Sin embargo, analizandio los gráficos:  
+
+**Distribución de Errores**: No parece ser completamente normal, lo que sugiere que el modelo podría no estar capturando bien ciertos patrones en los datos.  
+La línea roja en 0 sugiere que el modelo tiene un sesgo bajo, pero hay errores dispersos en ambos lados.  
+
+**Predicciones vs Valores Reales**: La mayoría de los puntos están cercanos con la línea roja (valor ideal), lo que indica que el modelo predice bien en general.  
+Sin embargo, hay cierta dispersión en valores más altos, lo que podría significar que el modelo tiene más dificultad para predecir valores extremos.   
 
 ---  
 
