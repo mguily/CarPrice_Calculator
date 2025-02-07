@@ -19,8 +19,7 @@ Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **L
 
 ✅ **Regresión Lineal (LR)**  
 
-Funciona bien si el precio de los coches tiene una relación lineal con las características (por ejemplo, si el precio aumenta de manera constante con la potencia del motor o el año del modelo).  
-Es fácil de interpretar y entrenar rápido.  
+Funciona bien si el precio de los coches tiene una relación lineal con las características (por ejemplo, si el precio aumenta de manera constante con la potencia del motor o el año del modelo). Es fácil de interpretar y entrenar rápido.  
 
 ✅ **Gradient Boosting (GB)**  
 
@@ -29,7 +28,7 @@ Es más preciso en datasets complejos, pero puede ser más lento y requerir ajus
 
 **¿Cómo compararlos?**  
 - Métricas de error: Usa MSE, RMSE o MAE para ver cuál predice mejor.
-- Distribución de Errores: Si un modelo hace buenas predicciones, la distribución de errores tiende a parecerse a una curva normal (campana de Gauss).
+- Distribución de Errores: Si un modelo hace buenas predicciones, la distribución de errores tiende a parecerse a una curva normal.
 - Importancia de variables: Si el modelo es perfecto, los puntos deberían alinearse en la diagonal y = x.
 
 --- 
