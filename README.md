@@ -22,7 +22,7 @@ Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **L
 Funciona bien si el precio de los coches tiene una relación lineal con las características (por ejemplo, si el precio aumenta de manera constante con la potencia del motor o el año del modelo).  
 Es fácil de interpretar y entrenar rápido.  
 
-✅ **Gradient Boosting Regression (GBR)**  
+✅ **Gradient Boosting (GB)**  
 
 Puede capturar relaciones no lineales entre características y precio (por ejemplo, si un coche muy viejo baja mucho de precio, pero los clásicos pueden subir).
 Es más preciso en datasets complejos, pero puede ser más lento y requerir ajuste de hiperparámetros.
