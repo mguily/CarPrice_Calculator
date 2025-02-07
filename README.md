@@ -2,7 +2,7 @@
 
 # 🚗 Predicción de Precios de Coches  
 
-Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **Lineal Regression 🆚 Gradient Boosting**. También te permite predecir el precio de coches en función de diversas características usando cada algorítmo, si quieres saber como, revisa el apartado: **"🔧 Configuración del Entorno:"**, el cual se encuentra más abajo.
+Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **Lineal Regression 🆚 Gradient Boosting**. También te permite predecir el precio de coches en función de diversas características usando cada algorítmo, si quieres saber como, revisa el apartado: **"🔧 Configuración del Entorno"**, el cual se encuentra más abajo.
 
 ---  
 
