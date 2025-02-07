@@ -1,8 +1,8 @@
-📌 Nota Importante: Este proyecto es meramente académico y formativo. No está diseñado como un sistema de software robusto ni sigue estrictamente los principios de arquitectura software, por eso por simplicidad, entre otras cosas, solo existe una rama main donde se pushea todo el contenido. Su objetivo principal es la exploración y experimentación con modelos de predicción.
+📌 Nota Importante: Este proyecto es meramente académico y formativo. No está diseñado como un sistema de software robusto ni sigue estrictamente los principios de arquitectura software, por eso por simplicidad, entre otras cosas, solo existe una rama main donde se sube todo el contenido. Su objetivo principal es la exploración y experimentación con modelos de predicción.
 
 # 🚗 Predicción de Precios de Coches  
 
-Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **Lineal Regression 🆚 Gradient Boosting**. También te permite predecir el precio de coches en función de diversas características usando cada algorítmo, si quieres saber como, revisa el apartado: **"🔧 Configuración del Entorno"**, el cual se encuentra más abajo.
+Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **Lineal Regression 🆚 Gradient Boosting**. También te permite predecir el precio que tendrá un coche que crees fusionando marcas, modelos, kilometraje, etc.. Si quieres saber como, revisa el apartado: **"🔧 Configuración del Entorno"**, el cual se encuentra más abajo.
 
 ---
 
