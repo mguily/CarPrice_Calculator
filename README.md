@@ -1,4 +1,4 @@
-📌 Nota Importante: Este proyecto es meramente académico y formativo. No está diseñado como un sistema de software robusto ni sigue estrictamente los principios de arquitectura software, por eso y por simplicidad, entre otras cosas, solo existe una rama main donde se sube todo el contenido. Su objetivo principal es la exploración y experimentación con modelos de predicción.
+📌 Nota **_Importante_**: Este proyecto es meramente académico y formativo. No está diseñado como un sistema de software robusto ni sigue estrictamente los principios de arquitectura software, por eso y por simplicidad, entre otras cosas, solo existe una rama main donde se sube todo el contenido. Su objetivo principal es la exploración y experimentación con modelos de predicción.
 
 # 🚗 Predicción de Precios de Coches  
 
@@ -9,7 +9,7 @@ Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **L
 ## 📂 Estructura del Proyecto
 
 📁 **Performance** → Compara el rendimiento de ambos algorítmos.  
-📁 **GB** → Sistema de Gradiend Boosting.  
+📁 **GB** → Sistema de Gradient Boosting.  
 📁 **LR** → Sistema de Regresión Lineal.  
 📜 **car_price_dataset.csv** → Conjunto de datos con información de los coches.  
 
