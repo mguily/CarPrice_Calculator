@@ -60,47 +60,7 @@ Para ejecutar este proyecto, utilizaremos **Anaconda** con su entorno base y **J
 
 ---  
 
-## 📘 Guía para Usar el Notebook de Predicción  
-
-### 🔍 Cómo utilizar los valores  
-
-- **Brand (Marca):** Marca del coche (Ej: Audi, BMW, Ford).  
-- **Model (Modelo):** Modelo del coche (Ej: Q5, X5, Focus).  
-- **Year (Año):** Año de fabricación del coche.  
-- **Fuel_Type (Tipo de combustible):**  
-  - `Electric` → Eléctrico  
-  - `Petrol` → Gasolina  
-  - `Diesel` → Diésel  
-- **Transmission (Transmisión):**  
-  - `Automatic` → Automática  
-  - `Manual` → Manual  
-- **Mileage (Kilometraje):**  
-  - Número de **millas** que ha recorrido el coche.  
-  - 📏 **Conversión:** 1 milla = **1.60934 km**  
-  - Ejemplo: **680,000 millas** → **1,094,353.2 km**  
-- **Engine_Size (Tamaño del motor):** Tamaño del motor en litros (Ej: 1.6, 2.0, 3.5).  
-- **Doors (Número de puertas):** Número de puertas (Ej: 2, 4).  
-- **Owner_Count (Número de propietarios):** Número de propietarios anteriores (Ej: 1, 2, 3).  
-
-### ✏️ ¿Cómo modificar los valores?  
-
-Para hacer una predicción sobre un coche, simplemente reemplaza los valores en el diccionario `nuevo_coche` con los datos correspondientes.  
-
-Ejemplo de entrada en **Predict.ipynb**:  
-
-```python
-nuevo_coche = {
-    'Brand': 'Kia',  # Sustituye con valores reales
-    'Model': 'Sportage',
-    'Year': 2014, 
-    'Engine_Size': 2.6,
-    'Fuel_Type': 'Hybrid',
-    'Transmission': 'Manual',
-    'Mileage': 98700,
-    'Doors': 3,
-    'Owner_Count': 4
-}
-```
+## 📘 Ejemplo de ejecución:
 
 💸 Este coche debería valer (Mirando el csv: Kia,Sportage,2014,2.6,Hybrid,Manual,98700,3,4) -> **9926$**
 
