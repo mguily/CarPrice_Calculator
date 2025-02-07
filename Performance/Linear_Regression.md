@@ -22,4 +22,4 @@ El gráfico siguiente representa la relación entre las predicciones del modelo 
 
 **Distribución de Errores**: No parece acercarse a una distribución normal, lo que sugiere que el modelo podría no estar capturando bien ciertos patrones en los datos.
 
-**Predicciones vs Valores Reales**: La mayoría de los puntos están relativamente cercanos con la línea roja (valor ideal), lo que indica que el modelo no realiza predicciones exageradamene desviadas. Sin embargo, hay cierta dispersión en valores más altos, lo que podría significar que el modelo tiene más dificultad para predecir valores extremos.   
+**Predicciones vs Valores Reales**: La mayoría de los puntos no están muy lejanos a la línea roja (valor ideal), lo que indica que el modelo no realiza predicciones exageradamene desviadas, pero no es un modelo válido realmente.
