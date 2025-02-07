@@ -1,6 +1,6 @@
-# 📊 Resultados con Regresión Lineal (Performance_LinearRegression.ipynb)
+# 📊 Resultados con Gradient Boosting
 
-A continuación, se presentan los resultados obtenidos con el algoritmo básico de regresión lineal.
+A continuación, se presentan los resultados obtenidos con el algoritmo básico de Gradient Boosting.
 
 ### 📈 Métricas de rendimiento  
 - 🔹 **R² Score: 0.9987**  
