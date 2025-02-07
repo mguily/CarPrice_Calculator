@@ -1,3 +1,5 @@
+📌 Nota Importante: Este proyecto es meramente académico y formativo. No está diseñado como un sistema de software robusto ni sigue estrictamente los principios de arquitectura software. Su objetivo principal es la exploración y experimentación con modelos de predicción.
+
 # 🚗 Predicción de Precios de Coches  
 
 Este proyecto tiene como objetivo predecir el precio de coches en función de diversas características como la marca, el modelo, el tipo de combustible, la transmisión y otras variables relevantes.  
