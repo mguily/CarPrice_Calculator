@@ -4,6 +4,15 @@
 
 Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **Lineal Regression 🆚 Gradient Boosting**. También te permite predecir el precio de coches en función de diversas características usando cada algorítmo, si quieres saber como, revisa el apartado: **"🔧 Configuración del Entorno"**, el cual se encuentra más abajo.
 
+---
+
+## 📂 Estructura del Proyecto
+
+📁 **Performance** → Compara el rendimiento de ambos algorítmos.  
+📁 **GB** → Sistema de Gradiend Boosting.  
+📁 **LR** → Sistema de Regresión Lineal.  
+📜 **car_price_dataset.csv** → Conjunto de datos con información de los coches.  
+
 ---  
 
 ## ⚙️ Desarrollo del Proyecto  
@@ -43,15 +52,6 @@ Para ejecutar este proyecto, utilizaremos **Anaconda** con su entorno base y **J
 📂 Abre la carpeta del algorítmo que quieras probar.
 📜 Abre el archivo **Predict_X.ipynb**.  
 ▶️ Ejecuta las celdas paso a paso para cargar el modelo y hacer predicciones.  
-
----
-
-## 📂 Estructura del Proyecto
-
-📁 **Performance** → Compara el rendimiento de ambos algorítmos.  
-📁 **GB** → Sistema de Gradiend Boosting.  
-📁 **LR** → Sistema de Regresión Lineal.  
-📜 **car_price_dataset.csv** → Conjunto de datos con información de los coches.  
 
 ---
 
