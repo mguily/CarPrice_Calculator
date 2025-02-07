@@ -2,7 +2,7 @@
 
 # 🚗 Predicción de Precios de Coches  
 
-Este proyecto tiene como objetivo predecir el precio de coches en función de diversas características como la marca, el modelo, el tipo de combustible, la transmisión y otras variables relevantes. 
+Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **Lineal Regression 🆚 Gradient Boosting**. También te permite predecir el precio de coches en función de diversas características usando cada algorítmo, si quieres saber como, revisa el apartado: **"🔧 Configuración del Entorno:"**, el cual se encuentra más abajo.
 
 ---  
 
@@ -40,7 +40,8 @@ Para ejecutar este proyecto, utilizaremos **Anaconda** con su entorno base y **J
 
 ### 3️⃣ Abrir el Notebook de Predicción  
 📂 Navega hasta la carpeta donde hayas clonado este repositorio.  
-📜 Abre el archivo **Predict.ipynb**.  
+📂 Abre la carpeta del algorítmo que quieras probar.
+📜 Abre el archivo **Predict_X.ipynb**.  
 ▶️ Ejecuta las celdas paso a paso para cargar el modelo y hacer predicciones.  
 
 ---
@@ -51,13 +52,6 @@ Para ejecutar este proyecto, utilizaremos **Anaconda** con su entorno base y **J
 📁 **GB** → Sistema de Gradiend Boosting.  
 📁 **LR** → Sistema de Regresión Lineal.  
 📜 **car_price_dataset.csv** → Conjunto de datos con información de los coches.  
-
----
-
-## 🚀 Próximos Pasos
- 
-✅ Aplicar **normalización y escalado** en los datos para optimizar el rendimiento.  
-✅ Probar otras métricas de evaluación y **ajustar hiperparámetros (Parámetros del modelo configurados antes del entrenamiento)**.  
 
 ---
 
