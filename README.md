@@ -1,8 +1,8 @@
-📌 Nota Importante: Este proyecto es meramente académico y formativo. No está diseñado como un sistema de software robusto ni sigue estrictamente los principios de arquitectura software. Su objetivo principal es la exploración y experimentación con modelos de predicción.
+📌 Nota Importante: Este proyecto es meramente académico y formativo. No está diseñado como un sistema de software robusto ni sigue estrictamente los principios de arquitectura software, por eso por simplicidad, entre otras cosas, solo existe una rama main donde se pushea todo el contenido. Su objetivo principal es la exploración y experimentación con modelos de predicción.
 
 # 🚗 Predicción de Precios de Coches  
 
-Este proyecto tiene como objetivo predecir el precio de coches en función de diversas características como la marca, el modelo, el tipo de combustible, la transmisión y otras variables relevantes.  
+Este proyecto tiene como objetivo predecir el precio de coches en función de diversas características como la marca, el modelo, el tipo de combustible, la transmisión y otras variables relevantes. 
 
 ---  
 
@@ -18,7 +18,6 @@ Este proyecto tiene como objetivo predecir el precio de coches en función de di
 🔹 División del dataset en datos de entrenamiento y prueba (`train_test_split` con **80%-20%**).  
 
 ### 3️⃣ Entrenamiento del Modelo  
-🔹 Uso de **Regresión Lineal** (`sklearn.linear_model`).  
 🔹 Entrenamiento con los datos procesados.  
 
 ### 4️⃣ Guardado del Modelo  
@@ -44,31 +43,19 @@ Para ejecutar este proyecto, utilizaremos **Anaconda** con su entorno base y **J
 📜 Abre el archivo **Predict.ipynb**.  
 ▶️ Ejecuta las celdas paso a paso para cargar el modelo y hacer predicciones.  
 
----  
-
-## 📘 Ejemplo de ejecución:
-
-💸 Este coche debería valer (Mirando el csv: Kia,Sportage,2014,2.6,Hybrid,Manual,98700,3,4) -> **9926$**
-
-El sistema de predicción ha mostrado un resultado cercano, pero no exacto, por eso hay margen de mejora. ⬇️
-
-![image](https://github.com/user-attachments/assets/e7c6b710-205c-4c5c-9137-daeddff063f9)
-
 ---
 
 ## 📂 Estructura del Proyecto
 
-📜 **CarPrice_NB.ipynb** → Entrena el modelo de regresión lineal y lo guarda en un archivo.  
-📜 **Predict.ipynb** → Carga el modelo guardado y realiza predicciones.  
-📁 **car_price_dataset.csv** → Conjunto de datos con información de los coches.  
-📁 **car_price_model.pkl** → Modelo de regresión lineal entrenado.  
-📁 **label_encoders.pkl** → Codificadores de variables categóricas para la predicción.  
+📁 **Performance** → Compara el rendimiento de ambos algorítmos.  
+📁 **GB** → Sistema de Gradiend Boosting.  
+📁 **LR** → Sistema de Regresión Lineal.  
+📜 **car_price_dataset.csv** → Conjunto de datos con información de los coches.  
 
 ---
 
 ## 🚀 Próximos Pasos
-
-✅ Mejorar el modelo con técnicas como **Random Forest (Árboles de decisión en paralelo)** o **Gradient Boosting (Entrenar secuencialmente los árboles)**.  
+ 
 ✅ Aplicar **normalización y escalado** en los datos para optimizar el rendimiento.  
 ✅ Probar otras métricas de evaluación y **ajustar hiperparámetros (Parámetros del modelo configurados antes del entrenamiento)**.  
 
