@@ -21,11 +21,7 @@ Este proyecto tiene como objetivo predecir el precio de coches en función de di
 🔹 Uso de **Regresión Lineal** (`sklearn.linear_model`).  
 🔹 Entrenamiento con los datos procesados.  
 
-### 4️⃣ Evaluación del Modelo  
-📉 Cálculo de métricas: **MAE, MSE, R² Score**.  
-📊 **R² obtenido:** **0.91** (buen resultado).  
-
-### 5️⃣ Guardado del Modelo  
+### 4️⃣ Guardado del Modelo  
 💾 Modelo guardado con `joblib` para futuras predicciones.  
 
 ---  
