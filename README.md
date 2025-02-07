@@ -106,7 +106,7 @@ nuevo_coche = {
 
 El sistema de predicción ha mostrado un resultado cercano, pero no exacto, por eso hay margen de mejora. ⬇️
 
-![image](https://github.com/user-attachments/assets/e1de418c-ac4a-437f-b348-f2ff117f2baf)
+![image](https://github.com/user-attachments/assets/2d672654-0b75-40c6-906a-9d4119682d3e)
 
 ---
 
