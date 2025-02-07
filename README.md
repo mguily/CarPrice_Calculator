@@ -15,6 +15,25 @@ Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **L
 
 ---  
 
+## ❓ ¿Por qué tiene sentido la comparación?
+
+✅ **Regresión Lineal (LR)**  
+
+Funciona bien si el precio de los coches tiene una relación lineal con las características (por ejemplo, si el precio aumenta de manera constante con la potencia del motor o el año del modelo).  
+Es fácil de interpretar y entrenar rápido.  
+
+✅ **Gradient Boosting Regression (GBR)**  
+
+Puede capturar relaciones no lineales entre características y precio (por ejemplo, si un coche muy viejo baja mucho de precio, pero los clásicos pueden subir).
+Es más preciso en datasets complejos, pero puede ser más lento y requerir ajuste de hiperparámetros.
+
+**¿Cómo compararlos?**  
+- Métricas de error: Usa MSE, RMSE o MAE para ver cuál predice mejor.
+- Distribución de Errores: Si un modelo hace buenas predicciones, la distribución de errores tiende a parecerse a una curva normal (campana de Gauss).
+- Importancia de variables: Si el modelo es perfecto, los puntos deberían alinearse en la diagonal y = x.
+
+--- 
+
 ## ⚙️ Desarrollo del Proyecto  
 
 ### 1️⃣ Carga y Exploración de Datos  
