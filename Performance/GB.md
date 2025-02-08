@@ -1,6 +1,6 @@
 # 📊 Resultados con Gradient Boosting
 
-A continuación, se presentan los resultados obtenidos con el algoritmo básico de Gradient Boosting.
+A continuación, se presentan los resultados obtenidos con el algoritmo de Gradient Boosting.
 
 ### 📈 Métricas de rendimiento  
 - 🔹 **R² Score: 0.9987**  
@@ -18,7 +18,7 @@ El gráfico siguiente representa la relación entre las predicciones del modelo 
 
 ![📊 Predicciones vs Valores Reales](https://github.com/user-attachments/assets/93f72e16-484b-4022-b40c-25408bd102ab)
 
-📌 **Conclusión:** Un R² de 0.9987 es casi perfecto, ya que logra predecir casi todas las variaciones de precio en función de las variables dadas. Analizando los gráficos:  
+📌 **Conclusión:** Un R² de 0.9987 representa un modelo casi perfecto, ya que logra predecir casi todas las variaciones de precio en función de las variables dadas. Analizando los gráficos:  
 
 **Distribución de Errores**: La diferencia entre los valores reales y las predicciones sigue una distribución normal perfecta, centrada en 0, lo que indica que los errores son aleatorios y sin sesgo. Esto es una señal de que el modelo no está sobreajustado ni infraajustado y generaliza bien sobre los datos.  
 
