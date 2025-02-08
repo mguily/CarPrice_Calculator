@@ -2,12 +2,13 @@
 
 # 🚗 Predicción de Precios de Coches  
 
-Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **Linear Regression y Gradient Boosting Regressor**. También te permite predecir el precio que tendrá un coche que crees fusionando marcas, modelos, kilometraje, etc.. Si quieres saber como, revisa el apartado: **"🔧 Configuración del Entorno"**, el cual se encuentra más abajo.
+Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **Linear Regression y Gradient Boosting Regressor**. También te permite crear un coche fusionando marcas, modelos, kilometraje, etc.. y predecir el precio que tendrá. Si quieres saber como, revisa el apartado: **"🔧 Configuración del Entorno"**, el cual se encuentra más abajo.
 
 ---
 
 ## 📂 Estructura del Proyecto
 
+📁 **Documentation** → Documentación para comprender la lógica detrás de ambos algorítmos.  
 📁 **Performance** → Compara el rendimiento de ambos algorítmos.  
 📁 **GB** → Sistema de Gradient Boosting.  
 📁 **LR** → Sistema de Regresión Lineal.  
@@ -29,7 +30,7 @@ Es más preciso en datasets complejos, pero puede ser más lento y requerir ajus
 **¿Cómo compararlos?**  
 - Métricas de error: Usa MSE, RMSE o MAE para ver cuál predice mejor.
 - Distribución de Errores: Si un modelo hace buenas predicciones, la distribución de errores tiende a parecerse a una curva normal.
-- Importancia de variables: Si el modelo es perfecto, los puntos deberían alinearse en la diagonal y = x.
+- Predicciones vs Valores Reales: Si el modelo es perfecto, los puntos deberían alinearse en la diagonal y = x.
 
 --- 
 
