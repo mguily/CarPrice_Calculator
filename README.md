@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo comparar el rendimiento de los algorítmos **L
 
 ## 📂 Estructura del Proyecto
 
-📁 **Documentation** → Documentación para comprender la lógica detrás de ambos algorítmos.
+📁 **Documentation** → Documentación para comprender la lógica detrás de ambos algorítmos.  
 📁 **Performance** → Compara el rendimiento de ambos algorítmos.  
 📁 **GB** → Sistema de Gradient Boosting.  
 📁 **LR** → Sistema de Regresión Lineal.  
