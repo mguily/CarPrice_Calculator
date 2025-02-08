@@ -30,7 +30,7 @@ Es más preciso en datasets complejos, pero puede ser más lento y requerir ajus
 **¿Cómo compararlos?**  
 - Métricas de error: Usa MSE, RMSE o MAE para ver cuál predice mejor.
 - Distribución de Errores: Si un modelo hace buenas predicciones, la distribución de errores tiende a parecerse a una curva normal.
-- Importancia de variables: Si el modelo es perfecto, los puntos deberían alinearse en la diagonal y = x.
+- Predicciones vs Valores Reales: Si el modelo es perfecto, los puntos deberían alinearse en la diagonal y = x.
 
 --- 
 
